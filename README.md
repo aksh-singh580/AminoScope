@@ -8,5 +8,6 @@ This application was developed specifically for the Swift Student Challenge and 
 AminoScope was created with educational and exploratory intent. You have complete freedom to modify, adapt, or extend this application as you see fit, without any requirement for attribution. Consequently, please note that we are not responsible or liable for any issues or damages resulting from your modifications or usage.
 
 ### Credits
-- Vision & Development: @KumarP-India (with assistance from ChatGPT Plus)
+- Vision: @KumarP-India, @aksh-singh580
+- Development: @KumarP-India (with assistance from ChatGPT Plus)
 - Design & Quality Assurance: @aksh-singh580
