@@ -21,7 +21,6 @@ AminoScope is an app for exploring protein structures.
 
 ---
 
-
 ### Running the Application
 This application was developed specifically for the Swift Student Challenge and thus structured as a Swift Playground. It is however recommended to open the project in Xcode and deploy it directly to your iPad for optimal performance and experience.
 
